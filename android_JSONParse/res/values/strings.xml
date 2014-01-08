@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">android_JSONParse</string>
+    <string name="action_settings">清空缓存</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="name">姓名:</string>
+    <string name="age">年龄:</string>
+    <string name="address">地址:</string>
+    <string name="headImg">头像:</string>
+    <string name="details">详细信息</string>
+
+</resources>
